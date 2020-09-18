@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "func.h"
+#include "Multicalc.h"
 
 int add(int num1,int num2)
 {
