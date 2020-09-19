@@ -9,10 +9,10 @@ SRC = main.c\
 src/Multicalc.c\
 
 # All test source files
-# TEST_SRC = src/calculator_operations.c
-# test/test_calculator_operations.c
+TEST_SRC = src/Multicalc.c
+test/test_Multicalc.c
 
-#TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
+TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
 # All include folders with header files
 INC	= -Iinc
