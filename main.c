@@ -90,7 +90,12 @@ int main()
     case 23:
         output=pounds_kilogram(num1);
         break;
-
+    case 24:
+        output=KilometrePerLitre_MilesPerLitre(num1);
+        break;
+    case 25:
+        output=MilesPerLitre_KilometrePerLitre(num1);
+        break;
     }
     printf("%d",output);
 }
