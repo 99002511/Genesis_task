@@ -24,7 +24,7 @@ double kmph_mps(int);
 double mps_kmph(int);
 double kilogram_pounds(int);
 double pounds_kilogram(int);
-double KilometersPerLitre_MilesPerLitre(int);
-double MilesPerLitre_KilometersPerLitre(int);
+double KilometresPerLitre_MilesPerLitre(int);
+double MilesPerLitre_KilometresPerLitre(int);
 #endif
 
