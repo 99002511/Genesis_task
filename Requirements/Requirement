@@ -1,11 +1,13 @@
-Requirements
-ID	        Description
-HL_01	      To build a program for making a multipurpose calculator which can perform 5 arithmetic operations and 20 unit conversions
-HL_02	      Ask for a selector number as an input from user for selecting type of operation/conversion
-HL_02_LL_01	Ask for 2 operands if the selection is between 1 and 5
-HL_02_LL_02	Ask for 1 number if the selection is between 6 and 25 
-HL_03	      The user selects a selection number from 1 to 5
-HL_03_LL_01	Perform addition, subtraction, multiplication, division, power operations depending on selection
-HL_03_LL_02	Check boundary condition for division operation
-HL_04	      The user selects a selection number between 6 to 25
-HL_04_LL_01	Perform conversions of Length, Area, Volume, Fuel Economy depending on selection
+/*
+*Requirements
+*ID	        Description
+*HL_01	      To build a program for making a multipurpose calculator which can perform 5 arithmetic operations and 20 unit conversions
+*HL_02	      Ask for a selector number as an input from user for selecting type of operation/conversion
+*HL_02_LL_01	Ask for 2 operands if the selection is between 1 and 5
+*HL_02_LL_02	Ask for 1 number if the selection is between 6 and 25 
+*HL_03	      The user selects a selection number from 1 to 5
+*HL_03_LL_01	Perform addition, subtraction, multiplication, division, power operations depending on selection
+*HL_03_LL_02	Check boundary condition for division operation
+*HL_04	      The user selects a selection number between 6 to 25
+*HL_04_LL_01	Perform conversions of Length, Area, Volume, Fuel Economy depending on selection
+*/
