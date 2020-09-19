@@ -9,7 +9,7 @@ SRC = main.c\
 src/Multicalc.c\
 
 # All test source files
-TEST_SRC = src/Multicalc.c
+TEST_SRC = src/Multicalc.c\
 test/test_Multicalc.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
