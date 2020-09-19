@@ -4,3 +4,4 @@
 
 ![C/C++ CI](https://github.com/99002529/Genesis_task/workflows/C/C++%20CI/badge.svg)
 ![C/C++ CI](https://github.com/99002529/Genesis_task/workflows/C/C++%20CI/badge.svg)
+![Unit testing](https://github.com/99002529/Genesis_task/workflows/Unit%20testing/badge.svg)
