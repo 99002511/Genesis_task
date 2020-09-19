@@ -118,16 +118,16 @@ void test_power(void) {
   CU_ASSERT(3 == power(2, 2));
 }
 void test_cm_inch(void) {
-  CU_ASSERT(1.9685 == cm_inch(5);  
+  CU_ASSERT(1.9685 == cm_inch(5));  
 }
 void test_inch_cm(void) {
-  CU_ASSERT(12.7 == inch_cm(5);  
+  CU_ASSERT(12.7 == inch_cm(5));  
 }
 void test_feat_metre(void) {
-  CU_ASSERT(1.524 == feat_metre(5);  
+  CU_ASSERT(1.524 == feat_metre(5));  
 }
 void test_metre_feat(void) {
-  CU_ASSERT(16.4042 == metre_feat(5);  
+  CU_ASSERT(16.4042 == metre_feat(5));  
 }
           
 
