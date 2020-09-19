@@ -1,5 +1,5 @@
 Requirements
-ID	Description
+ID	        Description
 HL_01	      To build a program for making a multipurpose calculator which can perform 5 arithmetic operations and 20 unit conversions
 HL_02	      Ask for a selector number as an input from user for selecting type of operation/conversion
 HL_02_LL_01	Ask for 2 operands if the selection is between 1 and 5
