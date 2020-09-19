@@ -4,7 +4,7 @@
 
 int main()
 {
-    printf("Choose a operation you want from 1 to 23\n");
+    printf("Choose a operation you want from 1 to 25\n");
     int selection;
     scanf("%d",&selection);
     int num1,num2,output;
