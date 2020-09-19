@@ -103,11 +103,11 @@ double pounds_kilogram(int num1)
 {
     return num1*0.453592;
 }
-double KilometrePerLitre_MilesPerLitre(int num1);
+double KilometresPerLitre_MilesPerLitre(int num1);
 {
     return num1*2.35215;
 }
-double MilesPerLitre_KilometrePerLitre(int num1);
+double MilesPerLitre_KilometresPerLitre(int num1);
 {
     return num1*0.425144;
 }
