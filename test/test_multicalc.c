@@ -92,17 +92,17 @@ void test_add(void) {
 }
 
 void test_sub(void) {
-  CU_ASSERT(-10 == subtract(0, 10));
+  CU_ASSERT(-10 == sub(0, 10));
   
   /* Dummy fail*/
-  CU_ASSERT(1 == subtract(10, 3));
+  CU_ASSERT(1 == sub(10, 3));
 }
 
 void test_mult(void) {
-  CU_ASSERT(0 == multiply(5, 0));
+  CU_ASSERT(0 == mult(5, 0));
   
   /* Dummy fail*/
-  CU_ASSERT(2 == multiply(2, 5));
+  CU_ASSERT(2 == mult(2, 5));
 }
 
 void test_divide(void) {
