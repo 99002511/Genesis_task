@@ -10,7 +10,7 @@ src/Multicalc.c\
 
 # All test source files
 TEST_SRC = src/Multicalc.c\
-test/test_Multicalc.c
+test/test_multicalc.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
